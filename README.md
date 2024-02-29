@@ -1,1 +1,1 @@
-Some basic shell scripts.
+Some basic bash scripts.
